@@ -81,4 +81,4 @@
   - Too focused
   - Application Fee
 
-  * 
+  * Course material and exam Structure
