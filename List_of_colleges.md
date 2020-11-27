@@ -41,7 +41,8 @@
   - High cost of living
 
   * Evaluation pattern
-4. University of Freidburg: embedded systems engineering
+
+4. University of Freidburg: embedded systems engineering (M.Sc)
   Uni Link: https://www.tf.uni-freiburg.de/en/study-programs/embedded-systems-engineering/m-sc-embedded-systems-engineering
   + Flexible Course
   + Tution fees
@@ -54,3 +55,30 @@
   - High cost of living
 
   * Evaluation Pattern
+
+5.  Universität Bremen: Control microsystems Microelectronics (M.Sc)
+  Uni Link: https://dbs.uni-bremen.de/en/study-programs/study-career-fields/mathematics-engineering-production/detail/study/control-microsystems-microelectronics-master-1/
+  Course Plan Link: https://dbs.uni-bremen.de/fileadmin/user_upload/dokumente/Studienverlaufsplaene/FB1/Studienverlaufsplan_MSc_CMM-12-19.pdf
+  + Good Spread related to ICE
+  + Course Subjects can be taken as per own choice
+  + Maths seems to be doable
+  + Tution fees
+
+  - Partially German Taught
+  - Above average performance required in B.Tech
+
+  * Evaluation Plan
+  * Level of German needed unknown
+
+6. University of Groningen: Biomedical engineering
+  Uni Link: https://www.rug.nl/masters/biomedical-engineering/#!programme
+  Application Link: https://www.rug.nl/fse/programme/admissions/msc/?lang=en
+  + Biomedical (evergreen)
+  + English Taught
+  + not maths intensive
+
+  - Tution fees
+  - Too focused
+  - Application Fee
+
+  * 
