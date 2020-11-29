@@ -70,7 +70,7 @@
   * Evaluation Plan
   * Level of German needed unknown
 
-6. University of Groningen: Biomedical engineering
+6. University of Groningen: Biomedical engineering (M.Sc)
   Uni Link: https://www.rug.nl/masters/biomedical-engineering/#!programme
   Application Link: https://www.rug.nl/fse/programme/admissions/msc/?lang=en
   + Biomedical (evergreen)
@@ -82,3 +82,26 @@
   - Application Fee
 
   * Course material and exam Structure
+
+7. University of Glasgow: Sensing and Imaging systems (M.Sc)
+  Uni Link: https://www.gla.ac.uk/postgraduate/taught/sensorandimagingsystems/?utm_source=Find-A-Masters&utm_medium=Click-Tracker&utm_campaign=UOG-MRIO-Profiles&utm_term=SMRS&utm_content=Think-Course-Listings-Sensor-and-Imaging-Systems-MSc-Tracking&dclid=CjgKEAiA5IL-BRDh6-XIy-enri4SJADHw8ZHKjwEr-VDnz0wfx9uzxno5KnBPRGb_H4fd8fCSldQbPD_BwE#
+
+  + Biosensors
+  + Flexible
+  + Maths is not unmanageable
+
+  - Tution & Application fees
+  - Deposit
+  - Cost of Living
+
+8. Umea University: Robotics and Control (M.Sc)
+  Uni Link: https://www.umu.se/en/education/master/masters-programme-in-robotics-and-control/
+
+  + Robotics
+  + Control Systems
+
+  - Too much emphasis on programming
+  - Maths might be unmanageable
+  - Tution fees
+
+9. 
