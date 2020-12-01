@@ -104,4 +104,58 @@
   - Maths might be unmanageable
   - Tution fees
 
-9. 
+9. Warsaw Institute of Technology: Robotics (M.Sc)
+  Uni Link: https://www.students.pw.edu.pl/How-to-Apply/Admission-to-M.Sc
+
++ Robotics
++ Mechanical aspects covered as well
+
+- Difficult courses as per reviews
+- Tution fees a touch higher than usual
+
+* Proper course website and details
+
+10. Technical University of Munich: Robotics, Concience & Intelligence (M.Sc)
+  Uni Link: https://www.tum.de/en/studies/degree-programs/detail/robotics-cognition-intelligence-master-of-science-msc/
+
+  + robotics
+  + tution fees
+
+  - Partially German Taught
+  - Application fees
+
+  * Course details
+11. RWTH Aachen University: Robotic Systems engineering (M.Sc)
+  Uni Link: https://www.academy.rwth-aachen.de/en/education-formats/msc-degree-programmes/robosys
+
+  + robotics
+
+  - 1 yr work experience required
+  - GRE needed
+  - Tution fees
+
+  * Course details
+12. Tu Dortmund: Automation and Robotics (M.Sc)
+  Uni Link: https://www.tu-dortmund.de/en/studies/degree-programs/msc-automation-and-robotics/
+
+  + Tution fees
+  + robotics
+  + Automation
+
+  - Eligibility (2.5GPA)
+
+  * Course details
+
+13. KTH Royal Institute of Technology: Systems Control & Robotics (M.Sc)
+  Uni Link: https://www.kth.se/en/studies/master/systems-control-robotics?gclid=CjwKCAiA8Jf-BRB-EiwAWDtEGr0K-xB_2zWTtVAGhvP45yNPaAVx5_fw5rwoEdqCDpGZVQikJ-Qr_xoC7icQAvD_BwEhttps://www.kth.se/en/studies/master/systems-control-robotics?gclid=CjwKCAiA8Jf-BRB-EiwAWDtEGr0K-xB_2zWTtVAGhvP45yNPaAVx5_fw5rwoEdqCDpGZVQikJ-Qr_xoC7icQAvD_BwE
+    + Robotics
+    + Control systems
+    + Automation
+    + Flexibility
+
+    - Tution fees
+    - Maths
+
+    * Course Content and fees
+
+14. 
