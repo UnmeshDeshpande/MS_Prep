@@ -161,4 +161,10 @@
 14. FAU Erlangen-Nürnberg: Medical Engineering - Branches of Study: Medical Image and Data Processing / Health & Medical Data Analytics and Entrepreneurship
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4407/#tab_detail
   Uni Link: https://www.medical-engineering.study.fau.eu/prospective-students/masters-study-contents/
-  
+
+  + Biomedical
+  + Tution Fees
+
+  - Maths, DSP
+
+15. 
