@@ -176,8 +176,29 @@
   + Bridging courses
 
   - Maths could be a touch Difficult
+  - GRE required
 
   * Course Plan
   * German 200 hours certificate
   * 170 CP in B.Tech
-  
+
+16. Furtwangen University: Master of Biomedical Engineering (M.Sc)
+  DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3840/#tab_registration
+  Uni Link: https://www.hs-furtwangen.de/en/programmes/biomedical-engineering-master/
+
+    + Biomedical
+    + comprehensive
+    + Tution fees
+
+    - Maths
+
+17. RWTH Aachen University: Biomedical Systems Engineering (M.Sc)
+    DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5228/#tab_detail
+    Uni Link: https://www.elektrotechnik.rwth-aachen.de/cms/Elektrotechnik-und-Informationstechnik/Studium/Master-Studiengaenge/Master-of-Science/ENGLISCHSPRACHIG-Studiengang-Elektrote/~qhis/Studienrichtung-Biomedizinische-Technik/lidx/1/
+    Course Plan: https://www2.daad.de/app/ip/uploads/files/organisation/online/5ea7dc1be2c05128488904.pdf
+
+     + biomedical
+     + Flexible course
+     + Tution fees
+
+     - Cost of Living
