@@ -167,4 +167,17 @@
 
   - Maths, DSP
 
-15. 
+15. HAW Hamburg: European Master Medical Technology and Healthcare Business (M.Sc)
+  DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5433/#tab_registration
+  Uni Link: https://www.haw-hamburg.de/en/study/degree-courses-a-z/study-courses-in-detail/course/courses/show/european-master-of-medical-technology-and-healthcare-business/eb5822091a9ff28ca8d7ed3ba5756daa/
+
+  + Tution fees
+  + Biomedical
+  + Bridging courses
+
+  - Maths could be a touch Difficult
+
+  * Course Plan
+  * German 200 hours certificate
+  * 170 CP in B.Tech
+  
