@@ -202,3 +202,33 @@
      + Tution fees
 
      - Cost of Living
+
+18. University of Applied Sciences Jena: Scientific Instrumentation (M.Sc)
+  DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3796/#tab_detail
+  Uni Link: http://web.eah-jena.de/~ploss/SI/index.html
+
+  + Instrumentation
+  + Flexibility in course
+  + German Course inbuilt
+  + Tution fees
+
+  - Might be too physics (research) oriented
+
+19. University of Applied Sciences Schmalkalden: Mechatronics and Robotics (M.E.)
+  DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6347/
+  Uni Link: https://www.hs-schmalkalden.de/en/studying/programmes/master-degree-courses/mechatronics-and-robotics.html
+  + Course is having wide scope
+
+  - Non-Eligibility (2.5, Physics 10 credits)
+
+20. SRH Berlin University of Applied Sciences: Engineering and Sustainable Technology Management - Focus on Industry 4.0: Automation, Robotics & 3D Manufacturing (M.E)
+  DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6362/#tab_detail
+  Uni Link: https://www.srh-hochschule-berlin.de/en/studyprogrammes/master/meng-engineering-and-technology-management-focus-on-digital-industry/?utm_source=wkz-BE3001AX05
+
+  + All Latest courses
+  + Automation with AI and the likes
+
+  - Tution fees
+  - Too much coding
+
+   
