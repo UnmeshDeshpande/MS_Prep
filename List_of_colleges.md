@@ -231,4 +231,12 @@
   - Tution fees
   - Too much coding
 
-   
+21. hochschule esslingen: Automotive systems (M.E.)
+  Uni Link: https://www.https://www.hs-esslingen.de/en/graduate-school/applicants/courses/automotive-systems-m-eng/hs-esslingen.de/en/graduate-school/applicants/courses/automotive-systems-m-eng/
+
+  + Automotive Control systems
+  + Tution fees
+
+  - Too specific
+
+  * Eligibility unknown
