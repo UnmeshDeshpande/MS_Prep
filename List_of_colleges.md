@@ -112,6 +112,7 @@
 
 - Difficult courses as per reviews
 - Tution fees a touch higher than usual
+- Application Fees
 
 * Proper course website and details
 
