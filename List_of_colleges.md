@@ -252,4 +252,12 @@
 
   - No control systems or sensors, purely Electronics
 
-23. 
+23. University of Twente: Masters in Systems and Control(M.Sc)
+Uni Link: https://www.utwente.nl/en/education/master/programmes/systems-control/programme/
+
++ Control systems
++ Manageable Maths
++ Electives
++ Good Coverage
+
+- Unknown Heritage
