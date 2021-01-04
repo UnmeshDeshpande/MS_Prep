@@ -13,6 +13,7 @@
   * Focal Subjects
 
 2. Technische Universität Kaiserslautern: Automation and Control (M.Sc)
+# 451 to 500
   DaaD link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4818/
   Course Link: https://www.eit.uni-kl.de/en/mplus/
   Course Content Link:  https://modhb.uni-kl.de/mhb/FB-EIT/cos-676/
@@ -29,6 +30,7 @@
   * Test pattern
 
 3. University of Freidburg: microsystems engineering (M.Sc)
+# 351 to 350 173(Uni Rank)
   Uni Link: https://www.tf.uni-freiburg.de/en/study-programs/microsystem-engineering/m-sc-microsystems-engineering-en
   + Sensor_System_Technology
   + Low weightage for maths (relatively)
@@ -43,6 +45,7 @@
   * Evaluation pattern
 
 4. University of Freidburg: embedded systems engineering (M.Sc)
+# 351 to 350 173(Uni Rank)
   Uni Link: https://www.tf.uni-freiburg.de/en/study-programs/embedded-systems-engineering/m-sc-embedded-systems-engineering
   + Flexible Course
   + Tution fees
@@ -51,12 +54,13 @@
   + broad Course course
   + Deadline is still open
 
-  - Slightly more maths than the above course (but not terribly unmanageable)
+  - Slightly more math than the above course (but not terribly unmanageable)
   - High cost of living
 
   * Evaluation Pattern
 
 5.  Universität Bremen: Control microsystems Microelectronics (M.Sc)
+# 451 to 500 (Uni Rank)
   Uni Link: https://dbs.uni-bremen.de/en/study-programs/study-career-fields/mathematics-engineering-production/detail/study/control-microsystems-microelectronics-master-1/
   Course Plan Link: https://dbs.uni-bremen.de/fileadmin/user_upload/dokumente/Studienverlaufsplaene/FB1/Studienverlaufsplan_MSc_CMM-12-19.pdf
   + Good Spread related to ICE
@@ -71,6 +75,7 @@
   * Level of German needed unknown
 
 6. University of Groningen: Biomedical engineering (M.Sc)
+# 251 to 300 128 (Uni Rank)
   Uni Link: https://www.rug.nl/masters/biomedical-engineering/#!programme
   Application Link: https://www.rug.nl/fse/programme/admissions/msc/?lang=en
   + Biomedical (evergreen)
@@ -84,6 +89,7 @@
   * Course material and exam Structure
 
 7. University of Glasgow: Sensing and Imaging systems (M.Sc)
+# 101 to 150 77 (Uni Rank)
   Uni Link: https://www.gla.ac.uk/postgraduate/taught/sensorandimagingsystems/?utm_source=Find-A-Masters&utm_medium=Click-Tracker&utm_campaign=UOG-MRIO-Profiles&utm_term=SMRS&utm_content=Think-Course-Listings-Sensor-and-Imaging-Systems-MSc-Tracking&dclid=CjgKEAiA5IL-BRDh6-XIy-enri4SJADHw8ZHKjwEr-VDnz0wfx9uzxno5KnBPRGb_H4fd8fCSldQbPD_BwE#
 
   + Biosensors
@@ -95,6 +101,7 @@
   - Cost of Living
 
 8. Umea University: Robotics and Control (M.Sc)
+# 551 to 600 333 (Uni Rank)
   Uni Link: https://www.umu.se/en/education/master/masters-programme-in-robotics-and-control/
 
   + Robotics
@@ -105,6 +112,7 @@
   - Tution fees
 
 9. Warsaw Institute of Technology: Robotics (M.Sc)
+# 201 to 250 511 to 520 (Uni Rank)
   Uni Link: https://www.students.pw.edu.pl/How-to-Apply/Admission-to-M.Sc
 
 + Robotics
@@ -117,6 +125,7 @@
 * Proper course website and details
 
 10. Technical University of Munich: Robotics, Concience & Intelligence (M.Sc)
+# 20 50 (Uni Rank)
   Uni Link: https://www.tum.de/en/studies/degree-programs/detail/robotics-cognition-intelligence-master-of-science-msc/
 
   + robotics
@@ -127,6 +136,7 @@
 
   * Course details
 11. RWTH Aachen University: Robotic Systems engineering (M.Sc)
+# 34 145 (Uni Rank)
   Uni Link: https://www.academy.rwth-aachen.de/en/education-formats/msc-degree-programmes/robosys
 
   + robotics
@@ -137,6 +147,7 @@
 
   * Course details
 12. Tu Dortmund: Automation and Robotics (M.Sc)
+# 301 to 350 801 to 1000 (Uni Rank)
   Uni Link: https://www.tu-dortmund.de/en/studies/degree-programs/msc-automation-and-robotics/
 
   + Tution fees
@@ -148,6 +159,7 @@
   * Course details
 
 13. KTH Royal Institute of Technology: Systems Control & Robotics (M.Sc)
+# 17 98 (Uni Rank)
   Uni Link: https://www.kth.se/en/studies/master/systems-control-robotics?gclid=CjwKCAiA8Jf-BRB-EiwAWDtEGr0K-xB_2zWTtVAGhvP45yNPaAVx5_fw5rwoEdqCDpGZVQikJ-Qr_xoC7icQAvD_BwEhttps://www.kth.se/en/studies/master/systems-control-robotics?gclid=CjwKCAiA8Jf-BRB-EiwAWDtEGr0K-xB_2zWTtVAGhvP45yNPaAVx5_fw5rwoEdqCDpGZVQikJ-Qr_xoC7icQAvD_BwE
     + Robotics
     + Control systems
@@ -160,6 +172,7 @@
     * Course Content and fees
 
 14. FAU Erlangen-Nürnberg: Medical Engineering - Branches of Study: Medical Image and Data Processing / Health & Medical Data Analytics and Entrepreneurship
+# 151 to 200 317 (Uni Rank)
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4407/#tab_detail
   Uni Link: https://www.medical-engineering.study.fau.eu/prospective-students/masters-study-contents/
 
@@ -169,6 +182,7 @@
   - Maths, DSP
 
 15. HAW Hamburg: European Master Medical Technology and Healthcare Business (M.Sc)
+# 295 228 (Uni Rank)
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5433/#tab_registration
   Uni Link: https://www.haw-hamburg.de/en/study/degree-courses-a-z/study-courses-in-detail/course/courses/show/european-master-of-medical-technology-and-healthcare-business/eb5822091a9ff28ca8d7ed3ba5756daa/
 
@@ -194,6 +208,7 @@
     - Maths
 
 17. RWTH Aachen University: Biomedical Systems Engineering (M.Sc)
+# 34 145 (Uni Rank)
     DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5228/#tab_detail
     Uni Link: https://www.elektrotechnik.rwth-aachen.de/cms/Elektrotechnik-und-Informationstechnik/Studium/Master-Studiengaenge/Master-of-Science/ENGLISCHSPRACHIG-Studiengang-Elektrote/~qhis/Studienrichtung-Biomedizinische-Technik/lidx/1/
     Course Plan: https://www2.daad.de/app/ip/uploads/files/organisation/online/5ea7dc1be2c05128488904.pdf
@@ -205,6 +220,7 @@
      - Cost of Living
 
 18. University of Applied Sciences Jena: Scientific Instrumentation (M.Sc)
+# 351 (Uni Rank)
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3796/#tab_detail
   Uni Link: http://web.eah-jena.de/~ploss/SI/index.html
 
@@ -216,6 +232,7 @@
   - Might be too physics (research) oriented
 
 19. University of Applied Sciences Schmalkalden: Mechatronics and Robotics (M.E.)
+
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6347/
   Uni Link: https://www.hs-schmalkalden.de/en/studying/programmes/master-degree-courses/mechatronics-and-robotics.html
   + Course is having wide scope
@@ -223,6 +240,7 @@
   - Non-Eligibility (2.5, Physics 10 credits)
 
 20. SRH Berlin University of Applied Sciences: Engineering and Sustainable Technology Management - Focus on Industry 4.0: Automation, Robotics & 3D Manufacturing (M.E)
+
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6362/#tab_detail
   Uni Link: https://www.srh-hochschule-berlin.de/en/studyprogrammes/master/meng-engineering-and-technology-management-focus-on-digital-industry/?utm_source=wkz-BE3001AX05
 
@@ -233,7 +251,8 @@
   - Too much coding
 
 21. hochschule esslingen: Automotive systems (M.E.)
-  Uni Link: https://www.https://www.hs-esslingen.de/en/graduate-school/applicants/courses/automotive-systems-m-eng/hs-esslingen.de/en/graduate-school/applicants/courses/automotive-systems-m-eng/
+
+  Uni Link: https://www.hs-esslingen.de/en/graduate-school/applicants/courses/automotive-systems-m-eng/hs-esslingen.de/en/graduate-school/applicants/courses/automotive-systems-m-eng/
 
   + Automotive Control systems
   + Tution fees
@@ -242,6 +261,7 @@
 
   * Eligibility unknown
 22. Lund University: Embedded Electronics Engineering(M.Sc)
+# 97 (Uni Rank)
   Uni Link: https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAEEE#overview
   Course Plan Link: https://www.lunduniversity.lu.se/sites/www.lunduniversity.lu.se/files/2020-10/Embedded-Electronics-Engineering-fact-sheet.pdf
 
@@ -253,6 +273,7 @@
   - No control systems or sensors, purely Electronics
 
 23. University of Twente: Masters in Systems and Control(M.Sc)
+# 100 to 150 197 (Uni Rank)
   Uni Link: https://www.utwente.nl/en/education/master/programmes/systems-control/programme/
 
 + Control systems
@@ -260,9 +281,10 @@
 + Electives
 + Good Coverage
 
-- Unknown Heritage
+- unknown job market
 
 24. University of Derby: Control and Instrumentation(M.Sc)
+
   Uni Link: https://www.derby.ac.uk/postgraduate/electrical-electronic-engineering-courses/control-instrumentation-msc/#what-you-will-study
 
   + Control Systems
@@ -273,6 +295,7 @@
   * Course Plan & Career Prospects
 
 25. Trinity College Dublin: Electronics & Information Engineering(M.Sc)
+# 101 (Uni Rank)
   Uni Link: https://www.tcd.ie/eleceng/postgraduate/MSc/index.php
 
   + Electronics
@@ -283,18 +306,29 @@
   * Career Scope
 
 26. Eindhoven University of Technology: Systems and Control(M.Sc)
+# 51 to 100 120 (Uni Rank)
+  + Control systems
 
-+ Control systems
+  - Not eligible (8.5 CGPA/75%)
 
-- Not eligible (8.5 CGPA/75%)
-
-* Course Plan, Fee Structure
+  * Course Plan, Fee Structure
 
 27. Maynooth University: Embedded and wireless Systems(M.Sc)
+# 551 to 600 701 to 750 (Uni Rank)
+  Uni Link: https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/meng-electronic-engineering-embedded-and-wireless-systems
+  + embedded
+  + IoT and other communications
 
-+ embedded
-+ IoT and other communications
+  - too ECE oriented, especially communications
 
-- too ECE oriented, especially communications
+  * Fee Structure
+28. UC San Diego: Medical Device systems
+# 40 54 (Uni Rank)
+  Uni Link: http://ece.ucsd.edu/sites/ece.ucsd.edu/files/graduate/MDS_2017-18_0.pdf
 
-* Fee Structure
+  + Medical embedded
+  + No foreign language
+
+  - USA Visa
+
+  * Fee Structure and Eligibility criteria
