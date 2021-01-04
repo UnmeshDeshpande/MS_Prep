@@ -286,6 +286,15 @@
 
 + Control systems
 
-- Not eligible (8.5 CGPA)
+- Not eligible (8.5 CGPA/75%)
 
-* Course Plan
+* Course Plan, Fee Structure
+
+27. Maynooth University: Embedded and wireless Systems
+
++ embedded
++ IoT and other communications
+
+- too ECE oriented, especially communications
+
+* Fee Structure
