@@ -290,7 +290,7 @@
 
 * Course Plan, Fee Structure
 
-27. Maynooth University: Embedded and wireless Systems
+27. Maynooth University: Embedded and wireless Systems(M.Sc)
 
 + embedded
 + IoT and other communications
