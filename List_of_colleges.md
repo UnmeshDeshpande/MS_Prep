@@ -241,3 +241,15 @@
   - Too specific
 
   * Eligibility unknown
+22. Lund University: Embedded Electronics Engineering(M.Sc)
+  Uni Link: https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAEEE#overview
+  Course Plan Link: https://www.lunduniversity.lu.se/sites/www.lunduniversity.lu.se/files/2020-10/Embedded-Electronics-Engineering-fact-sheet.pdf
+
+  + Embedded systems
+  + Cost of Living
+  + Good Coverage of industries nearby
+  + Good Coverage
+
+  - No control systems or sensors, purely Electronics
+
+23. 
