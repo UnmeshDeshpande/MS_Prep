@@ -253,7 +253,7 @@
   - No control systems or sensors, purely Electronics
 
 23. University of Twente: Masters in Systems and Control(M.Sc)
-Uni Link: https://www.utwente.nl/en/education/master/programmes/systems-control/programme/
+  Uni Link: https://www.utwente.nl/en/education/master/programmes/systems-control/programme/
 
 + Control systems
 + Manageable Maths
@@ -261,3 +261,25 @@ Uni Link: https://www.utwente.nl/en/education/master/programmes/systems-control/
 + Good Coverage
 
 - Unknown Heritage
+
+24. University of Derby: Control and Instrumentation(M.Sc)
+  Uni Link: https://www.derby.ac.uk/postgraduate/electrical-electronic-engineering-courses/control-instrumentation-msc/#what-you-will-study
+
+  + Control Systems
+  + Management subjects present
+
+  - Tution Fees & Cost of living
+
+  * Course Plan & Career Prospects
+
+25. Trinity College Dublin: Electronics & Information Engineering(M.Sc)
+  Uni Link: https://www.tcd.ie/eleceng/postgraduate/MSc/index.php
+
+  + Electronics
+  + Flexibility
+
+  - Tution Fees & Cost of living
+
+  * Career Scope
+
+26. 
