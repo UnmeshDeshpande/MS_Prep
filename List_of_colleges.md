@@ -282,4 +282,10 @@
 
   * Career Scope
 
-26. 
+26. Eindhoven University of Technology: Systems and Control(M.Sc)
+
++ Control systems
+
+- Not eligible (8.5 CGPA)
+
+* Course Plan
