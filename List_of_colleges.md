@@ -332,3 +332,14 @@
   - USA Visa
 
   * Fee Structure and Eligibility criteria
+
+29. South Westphalia University of Applied Sciences: Systems Engineering & Engineering Management (M.Sc)
+
+  DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4062/#tab_services
+  Course Link: https://www4.fh-swf.de/de/home/studieninteressierte/studienangebote/stg_so/esem_master/examinationregulations/index.php#
+
+  + Control systems
+  + Covers all Fields of engineering
+  + Covers management as well
+
+  - mathematics heavy (could be)
