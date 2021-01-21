@@ -343,3 +343,15 @@
   + Covers management as well
 
   - mathematics heavy (could be)
+
+30. Technische Universität Dresden: Master's Programme in Nanoelectronic Systems
+  DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4257/#tab_registration
+  Course Link: https://tu-dresden.de/ing/elektrotechnik/studium/studieren-an-der-fakultaet/studiengaenge/masters-programme-nanoelectronic-systems/prospective-students
+
+  + Relevant course
+  + Sensors and Microelectronics
+  + Not math heavy
+  + Flexible
+
+  - 80% cutoff
+  - Apply through Uni Assist only.
