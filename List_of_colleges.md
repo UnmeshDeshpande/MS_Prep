@@ -368,4 +368,11 @@
 - Maths medium heavy
 - Neuroscience and Physiology
 
-32. 
+32. University of Bremen: Space Sciences and Technologies – Sensing, Processing, Communication(M.Sc)
+DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4771/#tab_registration
+Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb1/FB1/Pruefungsamt/Modulhandbuecher/Module_Guide_Space_ST_MPO_2020_v1_1.pdf
+  + Sensing and Control systems
+  + Flexible
+
+  - Civil Subjects
+  - Partially German taught
