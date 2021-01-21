@@ -402,3 +402,13 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
 
   - Apply via UniAssist
   - A1 for admission and A2 German before joining
+
+36. Hamburg University of Technology: Microelectronics and Microsystems (M.Sc)
+  Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3751/#tab_registration
+  Course Link: https://www.tuhh.de/t3resources/tuhh/download/universitaet/richtlinien/20190522_SatzungueberdasStudium-8Aend_Lesefassung.pdf
+
+  + microsystems
+  + good course plan
+
+  - good academic background required
+  
