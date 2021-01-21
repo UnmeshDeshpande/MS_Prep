@@ -355,3 +355,17 @@
 
   - 80% cutoff
   - Apply through Uni Assist only.
+
+31. Otto von Guericke University Magdeburg: Medical Systems Engineering (MSE)
+
+  DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6905/#tab_registration
+  Course Link: https://www.bekanntmachungen.ovgu.de/media/Modulhandb%c3%bccher/Master+_+Studieng%c3%a4nge/Medical+Systems+Engineering+_+Medizinische+Systeme/module+descriptions+_+march+06_+2019-p-11896.pdf
+
++ Biomedical
++ No tuition Fees
++ No grade requirements
+
+- Maths medium heavy
+- Neuroscience and Physiology
+
+32. 
