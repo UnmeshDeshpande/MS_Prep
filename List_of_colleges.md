@@ -386,3 +386,19 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   - 210 credits required
   - A2 german required
   - math heavy
+
+34. Rhine-Waal University of Applied Sciences: Bionics (M.Sc)
+  Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4224/#tab_registration
+  Course Link:
+  (EMAIL SENT)
+
+35. Chemnitz University of Technology: Micro and Nano Systems (M.Sc)
+  Daad Link:  https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4103/#tab_registration
+  Course Link: https://www.tu-chemnitz.de/etit/studium/stugang//index.php.en?page=m_mn#studienaufbau
+
+  + microsystems
+  + Flexible courses
+  + sensor Systems
+
+  - Apply via UniAssist
+  - A1 for admission and A2 German before joining
