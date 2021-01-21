@@ -366,7 +366,7 @@
 + No grade requirements
 
 - Maths medium heavy
-- Neuroscience and Physiology
+- Neuroscience and Physiology knowledge
 
 32. University of Bremen: Space Sciences and Technologies – Sensing, Processing, Communication(M.Sc)
 DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4771/#tab_registration
@@ -376,3 +376,13 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
 
   - Civil Subjects
   - Partially German taught
+
+33. Hamburg University of Applied Sciences: Biomedical Engineering (M.Sc)
+  Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4025/#tab_registration
+  Course Link: https://www.haw-hamburg.de/en/study/degree-courses-a-z/study-courses-in-detail/course/courses/show/biomedical-engineering/Studieninteressierte/https://www.haw-hamburg.de/en/study/degree-courses-a-z/study-courses-in-detail/course/courses/show/biomedical-engineering/Studieninteressierte/
+
+  + Biomedical
+
+  - 210 credits required
+  - A2 german required
+  - math heavy
