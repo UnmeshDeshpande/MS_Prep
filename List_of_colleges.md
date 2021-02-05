@@ -12,6 +12,10 @@
   * Eligibility
   * Focal Subjects
 
+REQUIREMENTS
+
+  i.
+
 2. Technische Universität Kaiserslautern: Automation and Control (M.Sc)
 # 451 to 500
   DaaD link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4818/
@@ -29,6 +33,17 @@
   * Eligibility
   * Test pattern
 
+  DEADLINES
+
+  November 1 to April 30 (Open Now)
+
+  REQUIREMENTS
+
+    i. Atleast 3.5/4 CGPA
+    ii. All documents in PDF format
+    iii. Assessment Fees of 50 euros
+    iv. Data modifyable anytime
+
 3. University of Freidburg: microsystems engineering (M.Sc)
 # 351 to 350 173(Uni Rank)
   Uni Link: https://www.tf.uni-freiburg.de/en/study-programs/microsystem-engineering/m-sc-microsystems-engineering-en
@@ -44,6 +59,18 @@
 
   * Evaluation pattern
 
+  DEADLINES
+
+  End of March to May 31st (Early Bird Possible)
+
+  REQUIREMENTS
+
+  i. Bachelor's 80%
+  ii. knowledge in Phy, Chem, Technical Mech, Electronics, Materials
+  iii. IELTS 7.0
+  iv. Required Docs: 1x Degree, 1x LOR, 1x English Proficiency Test Scores, 1x SOP, 1x Resume
+  v. 1655 euro per semester Fees
+
 4. University of Freidburg: embedded systems engineering (M.Sc)
 # 351 to 350 173(Uni Rank)
   Uni Link: https://www.tf.uni-freiburg.de/en/study-programs/embedded-systems-engineering/m-sc-embedded-systems-engineering
@@ -58,6 +85,18 @@
   - High cost of living
 
   * Evaluation Pattern
+
+  DEADLINES
+
+  End of March to May 31st (Early Bird Possible)
+
+  REQUIREMENTS
+
+  i. Bachelor's 80%
+  ii. knowledge in Phy, Chem, Technical Mech, Electronics, Materials
+  iii. IELTS 7.0
+  iv. Required Docs: 1x Degree, 1x LOR, 1x English Proficiency Test Scores, 1x SOP, 1x Resume
+  v. 1655 euro per semester Fees
 
 5.  Universität Bremen: Control microsystems Microelectronics (M.Sc)
 # 451 to 500 (Uni Rank)
@@ -87,6 +126,8 @@
   - Application Fee
 
   * Course material and exam Structure
+
+  
 
 7. University of Glasgow: Sensing and Imaging systems (M.Sc)
 # 101 to 150 77 (Uni Rank)
@@ -411,4 +452,3 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   + good course plan
 
   - good academic background required
-  
