@@ -581,12 +581,17 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
 
   REQUIREMENTS
 
-  i. 
+  i. B.Tech Degrees
+  ii. IELTS 5.5 minimum
+  iii. German A2 Level
+  iv. GRE Required
+  v. Online Application + Print and Send via post
 
 34. Rhine-Waal University of Applied Sciences: Bionics (M.Sc)
   Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4224/#tab_registration
   Course Link:
   (EMAIL SENT)
+  (Additional Information Requested on Followup)
 
 35. Chemnitz University of Technology: Micro and Nano Systems (M.Sc)
   Daad Link:  https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4103/#tab_registration
@@ -599,6 +604,19 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   - Apply via UniAssist
   - A1 for admission and A2 German before joining
 
+  * Dr. Jürgen Bräuer (academic incharge)
+  DEADLINES
+
+  Opens in May 2021 to 15 July (Early Bird possible)
+
+  REQUIREMENTS
+
+  i. B.Tech Degree
+  ii. IELTS 5.5
+  iii. A1 Required for admissions
+  iv. Apply via UniAssist
+
+
 36. Hamburg University of Technology: Microelectronics and Microsystems (M.Sc)
   Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3751/#tab_registration
   Course Link: https://www.tuhh.de/t3resources/tuhh/download/universitaet/richtlinien/20190522_SatzungueberdasStudium-8Aend_Lesefassung.pdf
@@ -607,3 +625,14 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   + good course plan
 
   - good academic background required
+
+  DEADLINES
+
+  1st march
+
+  REQUIREMENTS
+
+  i. Subject Specific Requirements: https://www.tuhh.de/t3resources/tuhh/download/studium/studieninteressierte/Fachspezifische_Kenntnisse_Master/Fachspezifische-Anforderung-2016-MM.pdf
+
+  ii. English Proficiency (IELTS)
+  
