@@ -275,6 +275,18 @@ REQUIREMENTS
   * German 200 hours certificate
   * 170 CP in B.Tech
 
+  DEADLINES
+
+  1st April to 30th April
+
+  REQUIREMENTS
+
+  i. First Degree in Bachelors with 180CP
+  ii. 200 hours German certification
+  iii. GRE & IELTS minimum 5.5
+  iv. LOR and experience certificate
+  v. CV and LOM
+
 16. Furtwangen University: Master of Biomedical Engineering (M.Sc)
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3840/#tab_registration
   Uni Link: https://www.hs-furtwangen.de/en/programmes/biomedical-engineering-master/
@@ -284,6 +296,17 @@ REQUIREMENTS
     + Tution fees
 
     - Maths
+
+    DEADLINES
+
+    April to 15th May 2021
+
+    REQUIREMENTS
+
+    i. GPA no requirement, 2.3 to 2.9 will be possible if course fits and language requirement fits
+    ii. IELTS min 5.5
+    iii. A1 German Recommended
+    iv. Bridge course if course not aligned to BME is in German in that case B1 required
 
 17. RWTH Aachen University: Biomedical Systems Engineering (M.Sc)
 # 34 145 (Uni Rank)
@@ -297,6 +320,16 @@ REQUIREMENTS
 
      - Cost of Living
 
+     DEADLINES
+
+     March 1
+
+     REQUIREMENTS
+
+    i. Subject-wise credits as required:  https://www.elektrotechnik.rwth-aachen.de/go/id/qjrh/lidx/1
+    ii. GRE required
+    iii. IELTS 5.5 at least
+
 18. University of Applied Sciences Jena: Scientific Instrumentation (M.Sc)
 # 351 (Uni Rank)
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3796/#tab_detail
@@ -309,6 +342,17 @@ REQUIREMENTS
 
   - Might be too physics (research) oriented
 
+  DEADLINES
+
+  March 2021 on-wards opening (early bird possible)
+
+  REQUIREMENTS
+
+  i. 2.0 CGPA is recommended but possible without if good LOM + good fit + good Relevant research
+  ii. IELTS 6.0
+  iii. 25 euro application Fees
+  iv. Applications need to be sent by post
+
 19. University of Applied Sciences Schmalkalden: Mechatronics and Robotics (M.E.)
 
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6347/
@@ -316,6 +360,22 @@ REQUIREMENTS
   + Course is having wide scope
 
   - Non-Eligibility (2.5, Physics 10 credits)
+
+  DEADLINES
+
+  June 15 Closing
+
+  REQUIREMENTS
+
+  i. 210 ECTS credits
+  ii. 2.0 German Grade equal to or better
+  iii. IELTS 6.5
+  iv. Application through post
+  v. Document required: Application form printed copy
+  vi. Degrees copy with marksheets and Transcripts
+  vii. MIT leaving certificate
+  viii. Birth certificate/passport copy
+
 
 20. SRH Berlin University of Applied Sciences: Engineering and Sustainable Technology Management - Focus on Industry 4.0: Automation, Robotics & 3D Manufacturing (M.E)
 
@@ -330,7 +390,7 @@ REQUIREMENTS
 
 21. hochschule esslingen: Automotive systems (M.E.)
 
-  Uni Link: https://www.hs-esslingen.de/en/graduate-school/applicants/courses/automotive-systems-m-eng/hs-esslingen.de/en/graduate-school/applicants/courses/automotive-systems-m-eng/
+    Uni Link: https://www.hs-esslingen.de/en/graduate-school/applicants/courses/automotive-systems-m-eng/hs-esslingen.de/en/graduate-school/applicants/courses/automotive-systems-m-eng/
 
   + Automotive Control systems
   + Tution fees
@@ -338,6 +398,18 @@ REQUIREMENTS
   - Too specific
 
   * Eligibility unknown
+
+  DEADLINES
+
+  Pre-Application: 2nd November??
+  Level 2 Application: 31st March
+
+  REQUIREMENTS
+
+  i. Document Requirements: Transcripts, CV, 2 LORs in their format
+  ii. German A1 required
+  iii. IELTS 6.0 min (not required for indians)
+
 22. Lund University: Embedded Electronics Engineering(M.Sc)
 # 97 (Uni Rank)
   Uni Link: https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAEEE#overview
@@ -350,6 +422,8 @@ REQUIREMENTS
 
   - No control systems or sensors, purely Electronics
 
+
+
 23. University of Twente: Masters in Systems and Control(M.Sc)
 # 100 to 150 197 (Uni Rank)
   Uni Link: https://www.utwente.nl/en/education/master/programmes/systems-control/programme/
@@ -360,6 +434,16 @@ REQUIREMENTS
 + Good Coverage
 
 - unknown job market
+
+  DEADLINES
+
+  1st May
+
+  REQUIREMENTS
+
+  i. B.Tech Degree
+  ii. 70 to 75% CGPA
+  iii. LOM: Why this program, why Twente, which specialization and why, examples of interesting masters thesis topics
 
 24. University of Derby: Control and Instrumentation(M.Sc)
 
@@ -422,6 +506,17 @@ REQUIREMENTS
 
   - mathematics heavy (could be)
 
+  DEADLINES
+
+  15 May
+
+  REQUIREMENTS
+
+  i. Degree
+  ii. IELTS 6.5
+  iii. 'Gut'or similar Grade recommended
+
+
 30. Technische Universität Dresden: Master's Programme in Nanoelectronic Systems
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4257/#tab_registration
   Course Link: https://tu-dresden.de/ing/elektrotechnik/studium/studieren-an-der-fakultaet/studiengaenge/masters-programme-nanoelectronic-systems/prospective-students
@@ -434,6 +529,17 @@ REQUIREMENTS
   - 80% cutoff
   - Apply through Uni Assist only.
 
+  DEADLINES
+
+  31st May
+
+  REQUIREMENTS
+
+  i. IELTS 6.5
+  ii. Degree with marksheets
+  iii. Send Via Post, Apply via UniAssist
+
+
 31. Otto von Guericke University Magdeburg: Medical Systems Engineering (MSE)
 
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6905/#tab_registration
@@ -445,6 +551,10 @@ REQUIREMENTS
 
 - Maths medium heavy
 - Neuroscience and Physiology knowledge
+
+  DEADLINES
+
+  ONLY SUMMER semester intake
 
 32. University of Bremen: Space Sciences and Technologies – Sensing, Processing, Communication(M.Sc)
 DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4771/#tab_registration
@@ -464,6 +574,14 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   - 210 credits required
   - A2 german required
   - math heavy
+
+  DEADLINES
+
+  1 June to 15 July
+
+  REQUIREMENTS
+
+  i. 
 
 34. Rhine-Waal University of Applied Sciences: Bionics (M.Sc)
   Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4224/#tab_registration
