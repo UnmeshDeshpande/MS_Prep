@@ -127,7 +127,14 @@ REQUIREMENTS
 
   * Course material and exam Structure
 
-  
+  DEADLINES
+
+  1 May (Open Now)
+
+  REQUIREMENTS
+  i. Apply via Studielink & their online application system
+  ii. Pay Application fees (75 euros)
+  iii. IELTS overall 6.5 with no section less than 6.5 [scanned copy is OK, they can verify online]
 
 7. University of Glasgow: Sensing and Imaging systems (M.Sc)
 # 101 to 150 77 (Uni Rank)
@@ -187,6 +194,20 @@ REQUIREMENTS
   - Tution fees
 
   * Course details
+
+  DEADLINES
+
+  1st March (open, Closing Soon)
+
+  REQUIREMENTS
+
+  i. 1 year work experience (clarification mail requested)
+  ii. GRE required (Marks not specified)
+  iii. B.Tech
+
+
+
+
 12. Tu Dortmund: Automation and Robotics (M.Sc)
 # 301 to 350 801 to 1000 (Uni Rank)
   Uni Link: https://www.tu-dortmund.de/en/studies/degree-programs/msc-automation-and-robotics/
@@ -198,6 +219,22 @@ REQUIREMENTS
   - Eligibility (2.5GPA)
 
   * Course details
+
+  DEADLINES
+
+  1st Feb to 15th March (Early Bird Possible, Act fast)
+
+  REQUIREMENTS
+
+  i. 65% Required
+  ii. 18 ECTS in maths
+  iii. 12 ECTS in CSE
+  iv. English Proficiency IELTS: 7/Atleast one year of schooling in English
+  v. GRE 60% in each section
+  vi. Apply via UniAssist
+  vii. documents required: MIT Leaving certificate, Degree, Marksheets, Transcripts, IELTS certification, GRE certification, Goethe certificate(s)
+  viii. motivation text during form filling
+  ix. LORs, Certificates of achievements
 
 13. KTH Royal Institute of Technology: Systems Control & Robotics (M.Sc)
 # 17 98 (Uni Rank)
