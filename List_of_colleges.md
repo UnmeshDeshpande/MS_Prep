@@ -183,7 +183,7 @@ REQUIREMENTS
   - Application fees
 
   * Course details
-11. RWTH Aachen University: Robotic Systems engineering (M.Sc)
+11. RWTH Aachen University: Robotic Systems engineering (M.Sc) [Intternational University]
 # 34 145 (Uni Rank)
   Uni Link: https://www.academy.rwth-aachen.de/en/education-formats/msc-degree-programmes/robosys
 
@@ -635,4 +635,3 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   i. Subject Specific Requirements: https://www.tuhh.de/t3resources/tuhh/download/studium/studieninteressierte/Fachspezifische_Kenntnisse_Master/Fachspezifische-Anforderung-2016-MM.pdf
 
   ii. English Proficiency (IELTS)
-  
