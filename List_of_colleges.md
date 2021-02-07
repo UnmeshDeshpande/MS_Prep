@@ -248,7 +248,7 @@ REQUIREMENTS
     - Maths
 
     * Course Content and fees
-
+ 
 14. FAU Erlangen-Nürnberg: Medical Engineering - Branches of Study: Medical Image and Data Processing / Health & Medical Data Analytics and Entrepreneurship
 # 151 to 200 317 (Uni Rank)
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4407/#tab_detail
