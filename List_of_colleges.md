@@ -207,7 +207,6 @@ REQUIREMENTS
 
 
 
-
 12. Tu Dortmund: Automation and Robotics (M.Sc)
 # 301 to 350 801 to 1000 (Uni Rank)
   Uni Link: https://www.tu-dortmund.de/en/studies/degree-programs/msc-automation-and-robotics/
@@ -248,7 +247,7 @@ REQUIREMENTS
     - Maths
 
     * Course Content and fees
- 
+
 14. FAU Erlangen-Nürnberg: Medical Engineering - Branches of Study: Medical Image and Data Processing / Health & Medical Data Analytics and Entrepreneurship
 # 151 to 200 317 (Uni Rank)
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4407/#tab_detail
@@ -308,7 +307,7 @@ REQUIREMENTS
     iii. A1 German Recommended
     iv. Bridge course if course not aligned to BME is in German in that case B1 required
 
-17. RWTH Aachen University: Biomedical Systems Engineering (M.Sc)
+17. RWTH Aachen University: Biomedical Systems Engineering (M.Sc) & Micro and Nanoelectronics & Systems and Automation [offered by the same department]
 # 34 145 (Uni Rank)
     DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5228/#tab_detail
     Uni Link: https://www.elektrotechnik.rwth-aachen.de/cms/Elektrotechnik-und-Informationstechnik/Studium/Master-Studiengaenge/Master-of-Science/ENGLISCHSPRACHIG-Studiengang-Elektrote/~qhis/Studienrichtung-Biomedizinische-Technik/lidx/1/
@@ -408,7 +407,7 @@ REQUIREMENTS
 
   i. Document Requirements: Transcripts, CV, 2 LORs in their format
   ii. German A1 required
-  iii. IELTS 6.0 min (not required for indians)
+  iii. IELTS 6.0 min (not required for Indians)
 
 22. Lund University: Embedded Electronics Engineering(M.Sc)
 # 97 (Uni Rank)
