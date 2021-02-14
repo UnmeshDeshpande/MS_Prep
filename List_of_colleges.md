@@ -616,7 +616,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   iv. Apply via UniAssist
 
 
-36. Hamburg University of Technology: Microelectronics and Microsystems (M.Sc)
+36. Hamburg University of Technology: Microelectronics and Microsystems (M.Sc)   E-L-I-M-I-N-A-T-E-D
   Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3751/#tab_registration
   Course Link: https://www.tuhh.de/t3resources/tuhh/download/universitaet/richtlinien/20190522_SatzungueberdasStudium-8Aend_Lesefassung.pdf
 
@@ -634,3 +634,77 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   i. Subject Specific Requirements: https://www.tuhh.de/t3resources/tuhh/download/studium/studieninteressierte/Fachspezifische_Kenntnisse_Master/Fachspezifische-Anforderung-2016-MM.pdf
 
   ii. English Proficiency (IELTS)
+
+37. Dresden International University: Industrial Management in Microelectronics (M. Sc.)
+  Uni Link: https://www.di-uni.de/studium-weiterbildung/ingenieurwesen/industrial-management-in-microelectronics
+
+  + Good blend of management and engineering
+  + 70% cutoff
+
+  - 1 year work experience needed
+  - limited batch size
+
+  DEADLINES
+
+  31st March 4th May ???
+
+  REQUIREMENTS
+
+  i. 240 credits bachelors Degree with 70%
+  ii. IELTS 6.0
+  iii. Motivation for intercultural and international experience
+  iv. 1 year work experience
+
+38. Rosenheim Technical University of Applied Sciences: Master's Programme in Mechatronics, Specialisation of the Master's Programme in Engineering Sciences (M.Sc)
+  Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4846/#tab_registration
+  Uni Link: https://www.th-rosenheim.de/en/technology/electrical-engineering-mechanical-engineering-materials/engineering-sciences-master/
+
+  + robotics
+
+  - 2.5 cutoff
+  - A2 German required
+
+  DEADLINES
+
+  1 May to 15 June
+
+  REQUIREMENTS
+
+  i. Degree with 2.5
+  ii. IELTS 6.0
+  iii. German A2
+
+39. Kiel University: Electric Vehicle Propulsion and Control (E-PiCo)
+  DaaD link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7067/#tab_costs
+  Uni Link: https://master-epico.ec-nantes.fr/
+
+  + EVs
+  + France-Germany-Romania
+  + Good Course demand
+
+  - might get too nomadic
+
+  DEADLINES
+
+  31st May 2021
+
+  REQUIREMENTS
+
+  i. IELTS 6.5
+  ii. CV, Degree and Transcripts, LOM, GRE [code provided]
+
+40. Fachhoschule Dortmund: Master Embedded Systems for Mechatronics (M.Sc)
+  Uni Link: https://www.fh-dortmund.de/en/studint/weg/StudAngeb/FB4_Embedded-Systems-for-Mechatronics_MA.php
+
+  + Flexible
+
+  - 2.5 or above required
+
+  DEADLINES
+
+  15 July
+
+  REQUIREMENTS
+
+  i. IELTS 6.5
+  ii. PreCheck Form: One try sent already
