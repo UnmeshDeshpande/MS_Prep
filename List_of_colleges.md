@@ -708,3 +708,23 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
 
   i. IELTS 6.5
   ii. PreCheck Form: One try sent already
+
+41. Deggendorf Institute of Technology: Electrical Engineering and Information Technology
+  Uni Link: https://www.th-deg.de/et-m-en
+
+  + No cutoff
+  + Tution fees
+  + Likeable Course plan
+
+  - Aptitude Test Sample: https://www.th-deg.de/Fakult%C3%A4ten/emt/et-m-zulassungspruefung.pdf
+  - German A2 Required
+  DEADLINES
+
+  15 April to 15th July
+
+  REQUIREMENTS
+
+  i. IELTS 5.5
+  ii. German A2
+  iii. Online Application to their portal. Docs: Secondary School Leaving, Degree, Transcripts, CV, language Certificates, passport
+  iv. 
