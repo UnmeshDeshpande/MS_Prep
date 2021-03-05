@@ -530,7 +530,7 @@ REQUIREMENTS
 
   DEADLINES
 
-  31st May
+  31st May (Open Now)
 
   REQUIREMENTS
 
@@ -727,4 +727,101 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   i. IELTS 5.5
   ii. German A2
   iii. Online Application to their portal. Docs: Secondary School Leaving, Degree, Transcripts, CV, language Certificates, passport
-  iv. 
+
+42. Universität Duisburg Essen: Automation and Safety (M.Sc.)
+  Uni Link: https://www.uni-due.de/studienangebote/studiengang.php?id=11
+
+  + automation
+
+  - 2.5 requirements
+  - Moderately Heavy mathematics
+  - B2 German required
+
+  DEADLINES
+
+  May 1 to Sept 15
+
+  REQUIREMENTS
+
+  i. Relevant Degree
+  ii. 2.5 required
+  iii. B2 German & English
+
+43. Kiel University: Master of Science in Electrical Engineering and Information Technology (M.Sc.)
+    Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6159/#tab_overview
+    Uni Link: https://www.tf.uni-kiel.de/servicezentrum/en/et-it-examination-office/corona?set_language=en
+
+    [very very confusing site, inquiry sent]
+
+44. TU-Ilmenau: Micro and Nanotechnologies (M.Sc.)
+    Uni Link: https://www.tu-ilmenau.de/studieninteressierte/en/fields-of-study/master/micro-and-nanotechnologies-msc/
+
+    + No cutoff
+    + Good Course plan
+
+    - Aptitude Test Mandatory [inquiry Required]
+
+    DEADLINES
+
+    15 Jan to 30 April
+
+    REQUIREMENTS
+
+    i. IELTS 6.5
+    ii. Aptitude Test
+    iii. 25 euro application Fees
+
+45.  HSB Bremen: Electronics Engineering
+    Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3752/#tab_overview
+    Uni Link: https://www.msc-ee.hs-bremen.de/
+
+    + Microsystems/Instrumentation/Communication systems options available
+    + % greater than 70 required
+
+    - Early Bird not possible  
+
+    DEADLINES
+
+    15th April
+
+    REQUIREMENTS
+
+    i. IELTS 6.0
+    ii. 70-75% required
+
+46. Hochschule München University of Applied Sciences: Master's in Micro- and Nanotechnology
+    DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4814/#tab_registration
+    Uni Link: https://sci.hm.edu/
+
+    + Oral Exam if less that 2.59
+    + Tution Fees
+
+    - B2 German
+    DEADLINES
+
+    May 2 to June 15
+
+    REQUIREMENTS
+
+    i. B2 German
+    ii. 2.69 or Oral Interview
+
+47. HAW Hamburg: Process Engineering
+  Uni Link: https://www.haw-hamburg.de/en/study/degree-courses-a-z/study-courses-in-detail/course/courses/show/process-engineering/Studieninteressierte/
+
+  + No grade cutoff
+  + GRE for non EU
+
+  - 180/210 CP Ambiguity
+  - VPD on UniAssist
+
+  DEADLINES
+
+  1 April to 15 May
+
+  REQUIREMENTS
+
+  i. IELTS 5.5
+  ii. GRE
+  iii. If less than 210 CP then B2 German
+  iv. CV & Other achievements
