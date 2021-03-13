@@ -16,7 +16,7 @@ REQUIREMENTS
 
   i.
 
-2. Technische Universität Kaiserslautern: Automation and Control (M.Sc)
+2. Technische Universität Kaiserslautern: Automation and Control (M.Sc)  [LOR: SN] $
 # 451 to 500
   DaaD link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4818/
   Course Link: https://www.eit.uni-kl.de/en/mplus/
@@ -44,7 +44,7 @@ REQUIREMENTS
     iii. Assessment Fees of 50 euros
     iv. Data modifyable anytime
 
-3. University of Freidburg: microsystems engineering (M.Sc)
+3. University of Freidburg: microsystems engineering (M.Sc) [LOR: DSC, DSK] $
 # 351 to 350 173(Uni Rank)
   Uni Link: https://www.tf.uni-freiburg.de/en/study-programs/microsystem-engineering/m-sc-microsystems-engineering-en
   + Sensor_System_Technology
@@ -113,7 +113,7 @@ REQUIREMENTS
   * Evaluation Plan
   * Level of German needed unknown
 
-6. University of Groningen: Biomedical engineering (M.Sc)
+6. University of Groningen: Biomedical engineering (M.Sc) [LOR: SN, DSK] @
 # 251 to 300 128 (Uni Rank)
   Uni Link: https://www.rug.nl/masters/biomedical-engineering/#!programme
   Application Link: https://www.rug.nl/fse/programme/admissions/msc/?lang=en
@@ -207,7 +207,7 @@ REQUIREMENTS
 
 
 
-12. Tu Dortmund: Automation and Robotics (M.Sc)
+12. Tu Dortmund: Automation and Robotics (M.Sc) [LOR: DSC, SN] @
 # 301 to 350 801 to 1000 (Uni Rank)
   Uni Link: https://www.tu-dortmund.de/en/studies/degree-programs/msc-automation-and-robotics/
 
@@ -286,7 +286,7 @@ REQUIREMENTS
   iv. LOR and experience certificate
   v. CV and LOM
 
-16. Furtwangen University: Master of Biomedical Engineering (M.Sc)
+16. Furtwangen University: Master of Biomedical Engineering (M.Sc) [LOR: DSK] $
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3840/#tab_registration
   Uni Link: https://www.hs-furtwangen.de/en/programmes/biomedical-engineering-master/
 
@@ -329,7 +329,7 @@ REQUIREMENTS
     ii. GRE required
     iii. IELTS 5.5 at least
 
-18. University of Applied Sciences Jena: Scientific Instrumentation (M.Sc)
+18. University of Applied Sciences Jena: Scientific Instrumentation (M.Sc) [LOR: DSC] @
 # 351 (Uni Rank)
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3796/#tab_detail
   Uni Link: http://web.eah-jena.de/~ploss/SI/index.html
@@ -352,7 +352,7 @@ REQUIREMENTS
   iii. 25 euro application Fees
   iv. Applications need to be sent by post
 
-19. University of Applied Sciences Schmalkalden: Mechatronics and Robotics (M.E.)
+19. University of Applied Sciences Schmalkalden: Mechatronics and Robotics (M.E.) [LOR: MKM, SN] $
 
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6347/
   Uni Link: https://www.hs-schmalkalden.de/en/studying/programmes/master-degree-courses/mechatronics-and-robotics.html
@@ -423,7 +423,7 @@ REQUIREMENTS
 
 
 
-23. University of Twente: Masters in Systems and Control(M.Sc)
+23. University of Twente: Masters in Systems and Control(M.Sc) [LOR: SN] $
 # 100 to 150 197 (Uni Rank)
   Uni Link: https://www.utwente.nl/en/education/master/programmes/systems-control/programme/
 
@@ -516,7 +516,7 @@ REQUIREMENTS
   iii. 'Gut'or similar Grade recommended
 
 
-30. Technische Universität Dresden: Master's Programme in Nanoelectronic Systems
+30. Technische Universität Dresden: Master's Programme in Nanoelectronic Systems [LOR: DSK] $
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4257/#tab_registration
   Course Link: https://tu-dresden.de/ing/elektrotechnik/studium/studieren-an-der-fakultaet/studiengaenge/masters-programme-nanoelectronic-systems/prospective-students
 
@@ -564,7 +564,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   - Civil Subjects
   - Partially German taught
 
-33. Hamburg University of Applied Sciences: Biomedical Engineering (M.Sc)
+33. Hamburg University of Applied Sciences: Biomedical Engineering (M.Sc) [LOR: DSK] $
   Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4025/#tab_registration
   Course Link: https://www.haw-hamburg.de/en/study/degree-courses-a-z/study-courses-in-detail/course/courses/show/biomedical-engineering/Studieninteressierte/https://www.haw-hamburg.de/en/study/degree-courses-a-z/study-courses-in-detail/course/courses/show/biomedical-engineering/Studieninteressierte/
 
@@ -592,7 +592,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   (EMAIL SENT)
   (Additional Information Requested on Followup)
 
-35. Chemnitz University of Technology: Micro and Nano Systems (M.Sc)
+35. Chemnitz University of Technology: Micro and Nano Systems (M.Sc) [LOR: DSC, DSK] $
   Daad Link:  https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4103/#tab_registration
   Course Link: https://www.tu-chemnitz.de/etit/studium/stugang//index.php.en?page=m_mn#studienaufbau
 
@@ -635,7 +635,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
 
   ii. English Proficiency (IELTS)
 
-37. Dresden International University: Industrial Management in Microelectronics (M. Sc.)
+37. Dresden International University: Industrial Management in Microelectronics (M. Sc.) %%
   Uni Link: https://www.di-uni.de/studium-weiterbildung/ingenieurwesen/industrial-management-in-microelectronics
 
   + Good blend of management and engineering
@@ -655,7 +655,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   iii. Motivation for intercultural and international experience
   iv. 1 year work experience
 
-38. Rosenheim Technical University of Applied Sciences: Master's Programme in Mechatronics, Specialisation of the Master's Programme in Engineering Sciences (M.Sc)
+38. Rosenheim Technical University of Applied Sciences: Master's Programme in Mechatronics, Specialisation of the Master's Programme in Engineering Sciences (M.Sc) %%
   Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4846/#tab_registration
   Uni Link: https://www.th-rosenheim.de/en/technology/electrical-engineering-mechanical-engineering-materials/engineering-sciences-master/
 
@@ -693,7 +693,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   i. IELTS 6.5
   ii. CV, Degree and Transcripts, LOM, GRE [code provided]
 
-40. Fachhoschule Dortmund: Master Embedded Systems for Mechatronics (M.Sc)
+40. Fachhoschule Dortmund: Master Embedded Systems for Mechatronics (M.Sc) $
   Uni Link: https://www.fh-dortmund.de/en/studint/weg/StudAngeb/FB4_Embedded-Systems-for-Mechatronics_MA.php
 
   + Flexible
@@ -709,7 +709,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   i. IELTS 6.5
   ii. PreCheck Form: One try sent already
 
-41. Deggendorf Institute of Technology: Electrical Engineering and Information Technology
+41. Deggendorf Institute of Technology: Electrical Engineering and Information Technology $
   Uni Link: https://www.th-deg.de/et-m-en
 
   + No cutoff
@@ -753,7 +753,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
 
     [very very confusing site, inquiry sent]
 
-44. TU-Ilmenau: Micro and Nanotechnologies (M.Sc.)
+44. TU-Ilmenau: Micro and Nanotechnologies (M.Sc.) $
     Uni Link: https://www.tu-ilmenau.de/studieninteressierte/en/fields-of-study/master/micro-and-nanotechnologies-msc/
 
     + No cutoff
@@ -771,7 +771,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
     ii. Aptitude Test
     iii. 25 euro application Fees
 
-45.  HSB Bremen: Electronics Engineering
+45.  HSB Bremen: Electronics Engineering [LOR: MKM, DSK] $
     Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3752/#tab_overview
     Uni Link: https://www.msc-ee.hs-bremen.de/
 
@@ -806,7 +806,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
     i. B2 German
     ii. 2.69 or Oral Interview
 
-47. HAW Hamburg: Process Engineering
+47. HAW Hamburg: Process Engineering [LOR: DSC] $
   Uni Link: https://www.haw-hamburg.de/en/study/degree-courses-a-z/study-courses-in-detail/course/courses/show/process-engineering/Studieninteressierte/
 
   + No grade cutoff
@@ -825,3 +825,5 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   ii. GRE
   iii. If less than 210 CP then B2 German
   iv. CV & Other achievements
+
+48. Hochschule Darmstadt: Automation (M.Sc) [LOR: DSC, SN] @
