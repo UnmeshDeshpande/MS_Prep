@@ -16,7 +16,7 @@ REQUIREMENTS
 
   i.
 
-2. Technische Universität Kaiserslautern: Automation and Control (M.Sc)  [LOR: SN] $
+2. Technische Universität Kaiserslautern: Automation and Control (M.Sc)  [LOR: SN, DSK] @
 # 451 to 500
   DaaD link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4818/
   Course Link: https://www.eit.uni-kl.de/en/mplus/
@@ -44,7 +44,7 @@ REQUIREMENTS
     iii. Assessment Fees of 50 euros
     iv. Data modifyable anytime
 
-3. University of Freidburg: microsystems engineering (M.Sc) [LOR: DSC, DSK] $
+3. University of Freidburg: microsystems engineering (M.Sc) [LOR: DSC] @
 # 351 to 350 173(Uni Rank)
   Uni Link: https://www.tf.uni-freiburg.de/en/study-programs/microsystem-engineering/m-sc-microsystems-engineering-en
   + Sensor_System_Technology
@@ -113,7 +113,7 @@ REQUIREMENTS
   * Evaluation Plan
   * Level of German needed unknown
 
-6. University of Groningen: Biomedical engineering (M.Sc) [LOR: SN, DSK] @
+6. University of Groningen: Biomedical engineering (M.Sc) [LOR: SN, DSK] @ -E-L-I-M-I-N-A-T-E-D-
 # 251 to 300 128 (Uni Rank)
   Uni Link: https://www.rug.nl/masters/biomedical-engineering/#!programme
   Application Link: https://www.rug.nl/fse/programme/admissions/msc/?lang=en
@@ -352,7 +352,7 @@ REQUIREMENTS
   iii. 25 euro application Fees
   iv. Applications need to be sent by post
 
-19. University of Applied Sciences Schmalkalden: Mechatronics and Robotics (M.E.) [LOR: MKM, SN] $
+19. University of Applied Sciences Schmalkalden: Mechatronics and Robotics (M.E.) [LOR: MKM] $
 
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6347/
   Uni Link: https://www.hs-schmalkalden.de/en/studying/programmes/master-degree-courses/mechatronics-and-robotics.html
@@ -423,7 +423,7 @@ REQUIREMENTS
 
 
 
-23. University of Twente: Masters in Systems and Control(M.Sc) [LOR: SN] $
+23. University of Twente: Masters in Systems and Control(M.Sc) [LOR: SN] @  -E-L-I-M-I-N-A-T-E-D-
 # 100 to 150 197 (Uni Rank)
   Uni Link: https://www.utwente.nl/en/education/master/programmes/systems-control/programme/
 
@@ -516,7 +516,7 @@ REQUIREMENTS
   iii. 'Gut'or similar Grade recommended
 
 
-30. Technische Universität Dresden: Master's Programme in Nanoelectronic Systems [LOR: DSK] $
+30. Technische Universität Dresden: Master's Programme in Nanoelectronic Systems [LOR: DSK] @
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4257/#tab_registration
   Course Link: https://tu-dresden.de/ing/elektrotechnik/studium/studieren-an-der-fakultaet/studiengaenge/masters-programme-nanoelectronic-systems/prospective-students
 
@@ -592,7 +592,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   (EMAIL SENT)
   (Additional Information Requested on Followup)
 
-35. Chemnitz University of Technology: Micro and Nano Systems (M.Sc) [LOR: DSC, DSK] $
+35. Chemnitz University of Technology: Micro and Nano Systems (M.Sc) @
   Daad Link:  https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4103/#tab_registration
   Course Link: https://www.tu-chemnitz.de/etit/studium/stugang//index.php.en?page=m_mn#studienaufbau
 
@@ -616,7 +616,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   iv. Apply via UniAssist
 
 
-36. Hamburg University of Technology: Microelectronics and Microsystems (M.Sc)   E-L-I-M-I-N-A-T-E-D
+36. Hamburg University of Technology: Microelectronics and Microsystems (M.Sc)   -E-L-I-M-I-N-A-T-E-D-
   Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3751/#tab_registration
   Course Link: https://www.tuhh.de/t3resources/tuhh/download/universitaet/richtlinien/20190522_SatzungueberdasStudium-8Aend_Lesefassung.pdf
 
@@ -771,7 +771,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
     ii. Aptitude Test
     iii. 25 euro application Fees
 
-45.  HSB Bremen: Electronics Engineering [LOR: MKM, DSK] $
+45.  HSB Bremen: Electronics Engineering [LOR: MKM, DSK] @
     Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3752/#tab_overview
     Uni Link: https://www.msc-ee.hs-bremen.de/
 
@@ -806,7 +806,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
     i. B2 German
     ii. 2.69 or Oral Interview
 
-47. HAW Hamburg: Process Engineering [LOR: DSC] $
+47. HAW Hamburg: Process Engineering [LOR: DSC] @
   Uni Link: https://www.haw-hamburg.de/en/study/degree-courses-a-z/study-courses-in-detail/course/courses/show/process-engineering/Studieninteressierte/
 
   + No grade cutoff
