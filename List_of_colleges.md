@@ -71,7 +71,7 @@ REQUIREMENTS
   iv. Required Docs: 1x Degree, 1x LOR, 1x English Proficiency Test Scores, 1x SOP, 1x Resume
   v. 1655 euro per semester Fees
 
-4. University of Freidburg: embedded systems engineering (M.Sc)
+4. University of Freidburg: embedded systems engineering (M.Sc) @
 # 351 to 350 173(Uni Rank)
   Uni Link: https://www.tf.uni-freiburg.de/en/study-programs/embedded-systems-engineering/m-sc-embedded-systems-engineering
   + Flexible Course
@@ -207,7 +207,7 @@ REQUIREMENTS
 
 
 
-12. Tu Dortmund: Automation and Robotics (M.Sc) [LOR: DSC, SN] @
+12. Tu Dortmund: Automation and Robotics (M.Sc) [LOR: DSC, SN] @ -E-L-I-M-I-N-A-T-E-D-
 # 301 to 350 801 to 1000 (Uni Rank)
   Uni Link: https://www.tu-dortmund.de/en/studies/degree-programs/msc-automation-and-robotics/
 
@@ -286,7 +286,7 @@ REQUIREMENTS
   iv. LOR and experience certificate
   v. CV and LOM
 
-16. Furtwangen University: Master of Biomedical Engineering (M.Sc) [LOR: DSK] $
+16. Furtwangen University: Master of Biomedical Engineering (M.Sc) [LOR: DSK]
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3840/#tab_registration
   Uni Link: https://www.hs-furtwangen.de/en/programmes/biomedical-engineering-master/
 
@@ -564,7 +564,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   - Civil Subjects
   - Partially German taught
 
-33. Hamburg University of Applied Sciences: Biomedical Engineering (M.Sc) [LOR: DSK] $
+33. Hamburg University of Applied Sciences: Biomedical Engineering (M.Sc) [LOR: DSK]
   Daad Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4025/#tab_registration
   Course Link: https://www.haw-hamburg.de/en/study/degree-courses-a-z/study-courses-in-detail/course/courses/show/biomedical-engineering/Studieninteressierte/https://www.haw-hamburg.de/en/study/degree-courses-a-z/study-courses-in-detail/course/courses/show/biomedical-engineering/Studieninteressierte/
 
@@ -827,3 +827,32 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
   iv. CV & Other achievements
 
 48. Hochschule Darmstadt: Automation (M.Sc) [LOR: DSC, SN] @
+
+49. Hochschule Coburg: Analytical Instrumentation, Measurements and Sensor Technology (M.E.) @
+
+50. OTH Regensburg: Electrical and Microsystems Engineering (M.E.)
+
+  DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4587/#tab_overview
+  Uni Link: https://www.oth-regensburg.de/en/faculties/applied-natural-sciences-and-cultural-studies/
+
+  + Microsystems Engineering
+  + Application based
+
+  - only 90 ECTS
+
+  * Dual Degree with Malaysian University
+
+  DEADLINES
+
+  15 May to 15 June
+
+  REQUIREMENTS
+
+  i. IELTS 5
+  ii. Degree
+  iii. VPD
+  iv. Work Experience Certificates
+  v. Transcripts
+  vi. CV
+  vii. language Certificates
+  viii. Online Application : https://www.oth-regensburg.de/fileadmin/media/fakultaeten/ank/studiengaenge/master_of_electrical_and_microsystems_engineering/info/pdf/Online_Application_Manual.pdf
