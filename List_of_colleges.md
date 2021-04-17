@@ -830,7 +830,7 @@ Course Link: https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb1/fb
 
 49. Hochschule Coburg: Analytical Instrumentation, Measurements and Sensor Technology (M.E.) @
 
-50. OTH Regensburg: Electrical and Microsystems Engineering (M.E.)
+50. OTH Regensburg: Electrical and Microsystems Engineering (M.E.) $
 
   DaaD Link: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4587/#tab_overview
   Uni Link: https://www.oth-regensburg.de/en/faculties/applied-natural-sciences-and-cultural-studies/
